@@ -171,8 +171,7 @@ export default function NoctendiaSite() {
             margin: "0 auto",
           }}
         >
-          An independent studio making story-driven RPGs set in beautiful,
-          dying worlds.
+          Worlds worth mourning, and the stories that survive them.
         </p>
 
         <Divider />
@@ -216,7 +215,7 @@ export default function NoctendiaSite() {
             marginBottom: 20,
           }}
         >
-          Every game its own world
+          Under the same night
         </h2>
         <p
           style={{
@@ -225,12 +224,11 @@ export default function NoctendiaSite() {
             lineHeight: 1.8,
           }}
         >
-          Noctendia is a series of role-playing games. Some are built as
-          grid-based tactics, others as traditional turn-based journeys.
-          Each game stands entirely on its own, with its own cast, its own
-          story, and its own world. What they share is a tone: ruin and
-          beauty side by side, old institutions, and the quiet dread of
-          things not fully understood.
+          Every Noctendia game is a world of its own: a new cast, a new
+          story, a new way to play. Some unfold as grid-based tactics,
+          others as classic turn-based journeys. What binds them is
+          something quieter: the feeling of standing somewhere beautiful
+          just as the light begins to leave.
         </p>
       </section>
 
@@ -269,14 +267,14 @@ export default function NoctendiaSite() {
               lineHeight: 1.8,
             }}
           >
-            You wake as Aerin, a Doll: an advanced automaton from an ancient
-            civilization thought long extinct. Around you is a beautiful
-            city at the brink of death. Among the ruins are survivors of
-            the Collegium, once the capital institution for trade,
-            education, and the arts, and above all for Hunting, the work
-            that kept nightmarish monsters at bay so people could live in
-            peace. Its Hunters were known as Companies. This is the story
-            of Company 12.
+            The city was the jewel of its age, and it is dying beautifully.
+            Aerin wakes in its ruins: a Doll, an automaton out of a
+            civilization the world remembers only as myth. Around him
+            gather the survivors of the Collegium, the great institution
+            that once ordered the city's life: its trade, its learning,
+            its arts, and its Hunts, which kept the nightmares beyond the
+            walls. Its Hunters served in companies. This is the story of
+            Company 12.
           </p>
           <div
             className="mt-8 inline-block"
@@ -315,8 +313,9 @@ export default function NoctendiaSite() {
           }}
         >
           Noctendia Interactive is an independent studio founded in 2026,
-          building story-driven RPGs. Its first game, Noctendia:
-          Company 12, is now in development.
+          built on a simple conviction: a world can be dark and still be
+          beautiful. Its first game, Noctendia: Company 12, is now in
+          development.
         </p>
       </section>
 
