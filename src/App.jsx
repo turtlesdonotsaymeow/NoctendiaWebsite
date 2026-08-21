@@ -171,7 +171,8 @@ export default function NoctendiaSite() {
             margin: "0 auto",
           }}
         >
-          An independent studio making gothic Victorian role-playing games.
+          An independent studio making story-driven RPGs set in beautiful,
+          dying worlds.
         </p>
 
         <Divider />
@@ -215,7 +216,7 @@ export default function NoctendiaSite() {
             marginBottom: 20,
           }}
         >
-          A home for gothic RPGs
+          Every game its own world
         </h2>
         <p
           style={{
@@ -224,12 +225,12 @@ export default function NoctendiaSite() {
             lineHeight: 1.8,
           }}
         >
-          Noctendia is a series of gothic role-playing games. Some are built
-          as grid-based tactics, others as traditional turn-based journeys.
+          Noctendia is a series of role-playing games. Some are built as
+          grid-based tactics, others as traditional turn-based journeys.
           Each game stands entirely on its own, with its own cast, its own
-          story, and its own corner of the dark. What they share is a tone:
-          candlelit halls, old institutions, and the quiet dread of things
-          not fully understood.
+          story, and its own world. What they share is a tone: ruin and
+          beauty side by side, old institutions, and the quiet dread of
+          things not fully understood.
         </p>
       </section>
 
@@ -259,7 +260,7 @@ export default function NoctendiaSite() {
               marginBottom: 20,
             }}
           >
-            A gothic Victorian turn-based RPG
+            A story-driven turn-based RPG
           </p>
           <p
             style={{
@@ -268,12 +269,14 @@ export default function NoctendiaSite() {
               lineHeight: 1.8,
             }}
           >
-            You are a Hunter of the Collegium, trained alongside your Company
-            to protect citizens from the nightmare things that crave them.
-            The world is alive, orderly, and yours to defend. But the further
-            your Company's duties take you, the clearer it becomes that not
-            every threat to this world hunts in the dark, and not every war
-            will be fought with a blade.
+            You wake as Aerin, a Doll: an advanced automaton from an ancient
+            civilization thought long extinct. Around you is a beautiful
+            city at the brink of death. Among the ruins are survivors of
+            the Collegium, once the capital institution for trade,
+            education, and the arts, and above all for Hunting, the work
+            that kept nightmarish monsters at bay so people could live in
+            peace. Its Hunters were known as Companies. This is the story
+            of Company 12.
           </p>
           <div
             className="mt-8 inline-block"
@@ -312,7 +315,7 @@ export default function NoctendiaSite() {
           }}
         >
           Noctendia Interactive is an independent studio founded in 2026,
-          building story-driven gothic RPGs. Its first game, Noctendia:
+          building story-driven RPGs. Its first game, Noctendia:
           Company 12, is now in development.
         </p>
       </section>
